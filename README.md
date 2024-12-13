@@ -1,3 +1,4 @@
+#Resolving conflicts
 # localrepo1
 local to remote
 Hello all 
