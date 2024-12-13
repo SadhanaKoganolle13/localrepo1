@@ -1,4 +1,4 @@
->added text in blockquote
+>added text in blockquote/s/s
 adding another line
 
 # localrepo1
